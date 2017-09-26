@@ -29,4 +29,3 @@
 ***Version 1.00.6*** -
  Added Naming Bots
  If you dislike the feature you can revert to Bot\_Fighing\_Explosion.py
- Changed the file extension to .py because .py3 isn’t supported in many text editors
