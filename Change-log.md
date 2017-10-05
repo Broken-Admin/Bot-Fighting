@@ -28,5 +28,4 @@
 
 ***Version 1.00.6*** -
  Added Naming Bots
-  
- If you dislike the feature you can revert to Bot\_Fighing\_Explosion.py
+  If you dislike the feature, you can revert to Bot\_Fighing\_Explosion.py
